@@ -13,6 +13,10 @@ All behind a friendly UI.
 
 <img width="229" height="183" alt="image" src="https://github.com/user-attachments/assets/8e3ef6fc-2140-423c-b649-f9f0153eca3c" />
 
+<img width="1845" height="773" alt="image" src="https://github.com/user-attachments/assets/1c19151e-4c95-455d-9672-7e9e46b486a9" />
+
+
+
 ---
 
 ## Requirements
